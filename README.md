@@ -1,5 +1,5 @@
 # JS-Jquery-and-JSON
-## This repo contains the code of JS that I am learning from Coursera
+## This repo contains the code of JS 
 ### Imp points in JS:
 1. '$' can be a variable
 2. JS is inspired from C
